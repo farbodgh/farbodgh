@@ -14,14 +14,14 @@ I am driven by the challenge of optimizing code to achieve peak performance and 
 
 **Technical Skills**                         | **Soft Skills**
 ------------------------------------------- | -----------------
-**C++**                     Advance        | Problem-Solving
-**Unreal Game Engine**      Intermediate   | Hard-Working
-**Unity Game Engine**       Intermediate   | Eye For Details
-**C#**                      Intermediate   | Continuous Learner
-**Algorithms**              Advance        | Collaborative
-**Data Structures**         Advance        | Creative
-**JavaScript**              Beginner       | Quick Learner
-**Linear Algebra**          Intermediate   | Ambitious
+**C++**                    - Advance        | Problem-Solving
+**Unreal Game Engine**     - Intermediate   | Hard-Working
+**Unity Game Engine**      - Intermediate   | Eye For Details
+**C#**                     - Intermediate   | Continuous Learner
+**Algorithms**             - Advance        | Collaborative
+**Data Structures**        - Advance        | Creative
+**JavaScript**             - Beginner       | Quick Learner
+**Linear Algebra**         - Intermediate   | 
 
 **Education**
 
